@@ -1,12 +1,12 @@
 {
-    "name": "nunomaduro/skeleton-php",
-    "description": "A skeleton repository for my packages",
-    "keywords": ["php", "skeleton", "package"],
+    "name": "plusinfolab/laramd",
+    "description": "A Laravel package for markdown documentation",
+    "keywords": ["php", "laravel", "markdown", "documentation"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Nuno Maduro",
-            "email": "enunomaduro@gmail.com"
+            "name": "PlusInfoLab",
+            "email": "info@plusinfolab.com"
         }
     ],
     "require": {
